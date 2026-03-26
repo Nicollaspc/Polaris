@@ -26,5 +26,5 @@ Uma aplicação web de To-Do List simples, moderna e intuitiva, desenvolvida par
 
 1. Faça o clone deste repositório na sua máquina:
    ```bash
-   git clone [https://github.com/Nicollaspc/Polaris.git](https://github.com/Nicollaspc/Polaris.git)
+   git clone [https://github.com/Nicollaspc/Polaris.git]
 
